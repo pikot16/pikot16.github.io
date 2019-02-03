@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+.img {
+  width: 50%;
+}
+
+.pace-running .img {
+  display:none;
+}
